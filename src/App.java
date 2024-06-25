@@ -3,6 +3,7 @@ public class App {
 
     public static void main(String[] args) throws Exception {
         test();
+        test2();
     }
 
     public static void test() {
